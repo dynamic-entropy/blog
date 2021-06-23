@@ -1,0 +1,9 @@
+[submodule "thedynamicblog/themes/themes/hello-friend-ng"]
+	path = thedynamicblog/themes/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "thedynamicblog/themes/hello-friend-ng"]
+	path = thedynamicblog/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "thedynamicblog/public"]
+	path = thedynamicblog/public
+	url = https://github.com/dynamic-entropy/dynamic-entropy.github.io.git
